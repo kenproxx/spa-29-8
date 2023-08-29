@@ -2,76 +2,48 @@
 
 namespace App\Models;
 
-use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Passport\HasApiTokens;
-use App\Models\Role;
 
-class User extends Authenticatable // implements MustVerifyEmail
+class User extends Authenticatable
 {
-    use HasFactory, Notifiable, HasApiTokens;
+    use HasApiTokens, HasFactory, Notifiable;
 
     /**
      * The attributes that are mass assignable.
      *
-     * @var array
+     * @var array<int, string>
      */
     protected $fillable = [
-        'name', 'email', 'password', 'type'
+        'name',
+        'email',
+        'password',
     ];
 
     /**
-     * The attributes that should be hidden for arrays.
+     * The attributes that should be hidden for serialization.
      *
-     * @var array
+     * @var array<int, string>
      */
     protected $hidden = [
-        'password', 'remember_token',
+        'password',
+        'remember_token',
     ];
 
     /**
-     * The attributes that should be cast to native types.
+     * The attributes that should be cast.
      *
-     * @var array
+     * @var array<string, string>
      */
     protected $casts = [
         'email_verified_at' => 'datetime',
+        'password' => 'hashed',
     ];
 
-     /**
-     * Get the profile photo URL attribute.
-     *
-     * @return string
-     */
-    public function getPhotoAttribute()
+    public function role()
     {
-        return 'https://www.gravatar.com/avatar/' . md5(strtolower($this->email)) . '.jpg?s=200&d=mm';
-    }
-
-    public function roles()
-    {
-        return $this->belongsToMany(Role::class);
-    }
-
-    /**
-     * Assigning User role
-     *
-     * @param \App\Models\Role $role
-     */
-    public function assignRole(Role $role)
-    {
-        return $this->roles()->save($role);
-    }
-
-    public function isAdmin()
-    {
-        return $this->roles()->where('name', 'Admin')->exists();
-    }
-
-    public function isUser()
-    {
-        return $this->roles()->where('name', 'User')->exists();
+        return $this->belongsTo(Role::class, 'role_id');
     }
 }
