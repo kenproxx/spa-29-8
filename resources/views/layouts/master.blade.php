@@ -8,7 +8,7 @@
   <meta name="csrf-token" content="{{ csrf_token() }}">
 
   <title>{{ config('app.name', 'Laravel') }}</title>
-  
+
 
   <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 </head>
@@ -54,13 +54,13 @@
         <router-link to="/profile">
           <div class="user-panel mt-3 pb-3 mb-3 d-flex">
               <div class="image">
-                <img src="{{ auth()->user()->photo }}" class="img-circle elevation-2" alt="User Image">
+                <img src="{{ auth()->user()->photo ?? ''}}" class="img-circle elevation-2" alt="User Image">
               </div>
               <div class="info">
 
-                  {{ Auth::user()->name }}
+                  {{ Auth::user()->name ?? ''}}
                   <span class="d-block text-muted">
-                    {{ Ucfirst(Auth::user()->type) }}
+                    {{ Ucfirst(Auth::user()->type ?? '') }}
                   </span>
               </div>
           </div>
@@ -76,7 +76,7 @@
   {{-- Content Wrapper. Contains page content --}}
   <div class="content-wrapper">
     {{-- Main content --}}
-    
+
     <!-- Content Header (Page header) -->
     <div class="content-header">
       <div class="container-fluid">
