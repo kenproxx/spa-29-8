@@ -11,11 +11,12 @@
 |
 */
 
+use App\Http\Controllers\frontend\HomePageController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
 Auth::routes(['verify' => true]);
@@ -24,6 +25,11 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::get('home', function () {
     return redirect('/dashboard');
+});
+
+Route::group(['prefix' => 'backend', 'middleware' => 'role.admin.super_admin'], function () {
+    Route::get('/', [HomePageController::class, 'index'])->name('index');
+    require_once __DIR__ . '/backend.php';
 });
 
 Route::get('/{vue_capture?}', function () {
