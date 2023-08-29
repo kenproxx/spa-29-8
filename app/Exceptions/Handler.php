@@ -34,4 +34,32 @@ class Handler extends ExceptionHandler
     {
         //
     }
+
+    public function render($request, $exception)
+    {
+        if ($this->isHttpException($exception)) {
+            $numLog = 'xxx';
+            $message = "Lỗi không xác định";
+
+            if ($exception->getStatusCode() == 404) {
+                $numLog = 404;
+                $img = 'errorimg.svg';
+                $message = "Không tìm thấy trang";
+            }
+            if ($exception->getStatusCode() == 403) {
+                $numLog = 403;
+                $img = 'website-under-construction.gif';
+                $message = "Bạn không có quyền truy cập";
+            }
+            if ($exception->getStatusCode() == 500) {
+                $numLog = 500;
+                $img = 'maintenance.svg';
+                $message = "Lỗi server";
+            }
+            return response()->view('backend.widgets.error', compact('numLog', 'message', 'img'), $numLog);
+        }
+
+        return parent::render($request, $exception);
+    }
+
 }
