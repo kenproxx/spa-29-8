@@ -6,7 +6,7 @@
 
 require('./bootstrap');
 
-window.Vue = require('vue');
+import Vue from 'vue';
 import moment from 'moment';
 
 import { Form, HasError, AlertError } from 'vform';
@@ -63,7 +63,7 @@ const router = new VueRouter({
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
- 
+
 // Components
 Vue.component('pagination', require('laravel-vue-pagination'));
 Vue.component('dashboard', require('./components/Dashboard.vue'));
