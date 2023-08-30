@@ -8,7 +8,7 @@
             <div class="card border-0 zoom-in bg-light-primary shadow-none">
                 <div class="card-body">
                     <div class="text-center">
-                        <img src="../../dist/images/svgs/icon-user-male.svg" width="50" height="50" class="mb-3"
+                        <img src="/dist/images/svgs/icon-user-male.svg" width="50" height="50" class="mb-3"
                              alt=""/>
                         <p class="fw-semibold fs-3 text-primary mb-1"> Users </p>
                         <h5 class="fw-semibold text-primary mb-0">{{count($users)}}</h5>
@@ -20,7 +20,7 @@
             <div class="card border-0 zoom-in bg-light-warning shadow-none">
                 <div class="card-body">
                     <div class="text-center">
-                        <img src="../../dist/images/svgs/icon-briefcase.svg" width="50" height="50" class="mb-3"
+                        <img src="/dist/images/svgs/icon-briefcase.svg" width="50" height="50" class="mb-3"
                              alt=""/>
                         <p class="fw-semibold fs-3 text-warning mb-1">Products</p>
                         <h5 class="fw-semibold text-warning mb-0">{{count($products)}}</h5>
@@ -32,7 +32,7 @@
             <div class="card border-0 zoom-in bg-light-info shadow-none">
                 <div class="card-body">
                     <div class="text-center">
-                        <img src="../../dist/images/svgs/icon-mailbox.svg" width="50" height="50" class="mb-3" alt=""/>
+                        <img src="/dist/images/svgs/icon-mailbox.svg" width="50" height="50" class="mb-3" alt=""/>
                         <p class="fw-semibold fs-3 text-info mb-1">Orders</p>
                         <h5 class="fw-semibold text-info mb-0">{{count($orders)}}</h5>
                     </div>
@@ -43,7 +43,7 @@
             <div class="card border-0 zoom-in bg-light-danger shadow-none">
                 <div class="card-body">
                     <div class="text-center">
-                        <img src="../../dist/images/svgs/icon-favorites.svg" width="50" height="50" class="mb-3"
+                        <img src="/dist/images/svgs/icon-favorites.svg" width="50" height="50" class="mb-3"
                              alt=""/>
                         <p class="fw-semibold fs-3 text-danger mb-1">Spa</p>
                         <h5 class="fw-semibold text-danger mb-0">{{count($spas)}}</h5>
@@ -55,7 +55,7 @@
             <div class="card border-0 zoom-in bg-light-success shadow-none">
                 <div class="card-body">
                     <div class="text-center">
-                        <img src="../../dist/images/svgs/icon-speech-bubble.svg" width="50" height="50" class="mb-3"
+                        <img src="/dist/images/svgs/icon-speech-bubble.svg" width="50" height="50" class="mb-3"
                              alt=""/>
                         <p class="fw-semibold fs-3 text-success mb-1">More Service</p>
                         <h5 class="fw-semibold text-success mb-0">{{count($services)}}</h5>
@@ -67,7 +67,7 @@
             <div class="card border-0 zoom-in bg-light-info shadow-none">
                 <div class="card-body">
                     <div class="text-center">
-                        <img src="../../dist/images/svgs/icon-connect.svg" width="50" height="50" class="mb-3" alt=""/>
+                        <img src="/dist/images/svgs/icon-connect.svg" width="50" height="50" class="mb-3" alt=""/>
                         <p class="fw-semibold fs-3 text-info mb-1">Feedbacks</p>
                         <h5 class="fw-semibold text-info mb-0">{{count($feedbacks)}}</h5>
                     </div>
@@ -468,7 +468,7 @@
                 <div class="card-body">
                     <div class="d-flex align-items-center mb-7 pb-2">
                         <div class="me-3 pe-1">
-                            <img src="../../dist/images/profile/user-1.jpg" class="shadow-warning rounded-2" alt=""
+                            <img src="/dist/images/profile/user-1.jpg" class="shadow-warning rounded-2" alt=""
                                  width="72" height="72"/>
                         </div>
                         <div>
@@ -480,28 +480,28 @@
                         <ul class="hstack mb-0">
                             <li class="ms-n8">
                                 <a href="javascript:void(0)" class="me-1">
-                                    <img src="../../dist/images/profile/user-2.jpg"
+                                    <img src="/dist/images/profile/user-2.jpg"
                                          class="rounded-circle border border-2 border-white" width="44" height="44"
                                          alt=""/>
                                 </a>
                             </li>
                             <li class="ms-n8">
                                 <a href="javascript:void(0)" class="me-1">
-                                    <img src="../../dist/images/profile/user-3.jpg"
+                                    <img src="/dist/images/profile/user-3.jpg"
                                          class="rounded-circle border border-2 border-white" width="44" height="44"
                                          alt=""/>
                                 </a>
                             </li>
                             <li class="ms-n8">
                                 <a href="javascript:void(0)" class="me-1">
-                                    <img src="../../dist/images/profile/user-4.jpg"
+                                    <img src="/dist/images/profile/user-4.jpg"
                                          class="rounded-circle border border-2 border-white" width="44" height="44"
                                          alt=""/>
                                 </a>
                             </li>
                             <li class="ms-n8">
                                 <a href="javascript:void(0)" class="me-1">
-                                    <img src="../../dist/images/profile/user-5.jpg"
+                                    <img src="/dist/images/profile/user-5.jpg"
                                          class="rounded-circle border border-2 border-white" width="44" height="44"
                                          alt=""/>
                                 </a>
@@ -521,7 +521,7 @@
                     <h5 class="fw-semibold mb-1 text-white card-title"> Best Selling Products </h5>
                     <p class="fs-3 mb-3 text-white">Overview 2023</p>
                     <div class="text-center mt-3">
-                        <img src="../../dist/images/backgrounds/piggy.png" class="img-fluid" alt=""/>
+                        <img src="/dist/images/backgrounds/piggy.png" class="img-fluid" alt=""/>
                     </div>
                 </div>
                 <div class="card mx-2 mb-2 mt-n2">
@@ -653,7 +653,7 @@
                                 <td class="ps-0">
                                     <div class="d-flex align-items-center">
                                         <div class="me-2 pe-1">
-                                            <img src="../../dist/images/profile/user-1.jpg" class="rounded-circle"
+                                            <img src="/dist/images/profile/user-1.jpg" class="rounded-circle"
                                                  width="40" height="40" alt=""/>
                                         </div>
                                         <div>
@@ -676,7 +676,7 @@
                                 <td class="ps-0">
                                     <div class="d-flex align-items-center">
                                         <div class="me-2 pe-1">
-                                            <img src="../../dist/images/profile/user-2.jpg" class="rounded-circle"
+                                            <img src="/dist/images/profile/user-2.jpg" class="rounded-circle"
                                                  width="40" height="40" alt=""/>
                                         </div>
                                         <div>
@@ -700,7 +700,7 @@
                                 <td class="ps-0">
                                     <div class="d-flex align-items-center">
                                         <div class="me-2 pe-1">
-                                            <img src="../../dist/images/profile/user-3.jpg" class="rounded-circle"
+                                            <img src="/dist/images/profile/user-3.jpg" class="rounded-circle"
                                                  width="40" height="40" alt=""/>
                                         </div>
                                         <div>
@@ -723,7 +723,7 @@
                                 <td class="ps-0">
                                     <div class="d-flex align-items-center">
                                         <div class="me-2 pe-1">
-                                            <img src="../../dist/images/profile/user-4.jpg" class="rounded-circle"
+                                            <img src="/dist/images/profile/user-4.jpg" class="rounded-circle"
                                                  width="40" height="40" alt=""/>
                                         </div>
                                         <div>
@@ -746,7 +746,7 @@
                                 <td class="border-0 ps-0">
                                     <div class="d-flex align-items-center">
                                         <div class="me-2 pe-1">
-                                            <img src="../../dist/images/profile/user-5.jpg" class="rounded-circle"
+                                            <img src="/dist/images/profile/user-5.jpg" class="rounded-circle"
                                                  width="40" height="40" alt=""/>
                                         </div>
                                         <div>
@@ -773,8 +773,8 @@
         </div>
     </div>
 
-    <script src="../../dist/libs/owl.carousel/dist/owl.carousel.min.js"></script>
-    <script src="../../dist/libs/apexcharts/dist/apexcharts.min.js"></script>
-    <script src="../../dist/js/dashboard.js"></script>
+    <script src="/dist/libs/owl.carousel/dist/owl.carousel.min.js"></script>
+    <script src="/dist/libs/apexcharts/dist/apexcharts.min.js"></script>
+    <script src="/dist/js/dashboard.js"></script>
 @endsection
 

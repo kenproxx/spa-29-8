@@ -26,7 +26,7 @@
 <body>
 <!-- Preloader -->
 <div class="preloader">
-    <img src="../../dist/images/logos/favicon.png" alt="loader" class="lds-ripple img-fluid"/>
+    <img src="/dist/images/logos/favicon.png" alt="loader" class="lds-ripple img-fluid"/>
 </div>
 <!--  Body Wrapper -->
 <div class="page-wrapper" id="main-wrapper" data-theme="blue_theme" data-layout="vertical" data-sidebartype="full"
@@ -80,7 +80,7 @@
      aria-labelledby="offcanvasWithBothOptionsLabel">
     <nav class="sidebar-nav scroll-sidebar">
         <div class="offcanvas-header justify-content-between">
-            <img src="../../dist/images/logos/favicon.png" alt="" class="img-fluid">
+            <img src="/dist/images/logos/favicon.png" alt="" class="img-fluid">
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body profile-dropdown mobile-navbar" data-simplebar="" data-simplebar>
@@ -97,7 +97,7 @@
                             <a href="#" class="d-flex align-items-center">
                                 <div
                                     class="bg-light rounded-1 me-3 p-6 d-flex align-items-center justify-content-center">
-                                    <img src="../../dist/images/svgs/icon-dd-chat.svg" alt="" class="img-fluid"
+                                    <img src="/dist/images/svgs/icon-dd-chat.svg" alt="" class="img-fluid"
                                          width="24" height="24">
                                 </div>
                                 <div class="d-inline-block">
@@ -110,7 +110,7 @@
                             <a href="#" class="d-flex align-items-center">
                                 <div
                                     class="bg-light rounded-1 me-3 p-6 d-flex align-items-center justify-content-center">
-                                    <img src="../../dist/images/svgs/icon-dd-invoice.svg" alt="" class="img-fluid"
+                                    <img src="/dist/images/svgs/icon-dd-invoice.svg" alt="" class="img-fluid"
                                          width="24" height="24">
                                 </div>
                                 <div class="d-inline-block">
@@ -123,7 +123,7 @@
                             <a href="#" class="d-flex align-items-center">
                                 <div
                                     class="bg-light rounded-1 me-3 p-6 d-flex align-items-center justify-content-center">
-                                    <img src="../../dist/images/svgs/icon-dd-mobile.svg" alt="" class="img-fluid"
+                                    <img src="/dist/images/svgs/icon-dd-mobile.svg" alt="" class="img-fluid"
                                          width="24" height="24">
                                 </div>
                                 <div class="d-inline-block">
@@ -136,7 +136,7 @@
                             <a href="#" class="d-flex align-items-center">
                                 <div
                                     class="bg-light rounded-1 me-3 p-6 d-flex align-items-center justify-content-center">
-                                    <img src="../../dist/images/svgs/icon-dd-message-box.svg" alt="" class="img-fluid"
+                                    <img src="/dist/images/svgs/icon-dd-message-box.svg" alt="" class="img-fluid"
                                          width="24" height="24">
                                 </div>
                                 <div class="d-inline-block">
@@ -149,7 +149,7 @@
                             <a href="#" class="d-flex align-items-center">
                                 <div
                                     class="bg-light rounded-1 me-3 p-6 d-flex align-items-center justify-content-center">
-                                    <img src="../../dist/images/svgs/icon-dd-cart.svg" alt="" class="img-fluid"
+                                    <img src="/dist/images/svgs/icon-dd-cart.svg" alt="" class="img-fluid"
                                          width="24" height="24">
                                 </div>
                                 <div class="d-inline-block">
@@ -162,7 +162,7 @@
                             <a href="#" class="d-flex align-items-center">
                                 <div
                                     class="bg-light rounded-1 me-3 p-6 d-flex align-items-center justify-content-center">
-                                    <img src="../../dist/images/svgs/icon-dd-date.svg" alt="" class="img-fluid"
+                                    <img src="/dist/images/svgs/icon-dd-date.svg" alt="" class="img-fluid"
                                          width="24" height="24">
                                 </div>
                                 <div class="d-inline-block">
@@ -175,7 +175,7 @@
                             <a href="#" class="d-flex align-items-center">
                                 <div
                                     class="bg-light rounded-1 me-3 p-6 d-flex align-items-center justify-content-center">
-                                    <img src="../../dist/images/svgs/icon-dd-lifebuoy.svg" alt="" class="img-fluid"
+                                    <img src="/dist/images/svgs/icon-dd-lifebuoy.svg" alt="" class="img-fluid"
                                          width="24" height="24">
                                 </div>
                                 <div class="d-inline-block">
@@ -188,7 +188,7 @@
                             <a href="#" class="d-flex align-items-center">
                                 <div
                                     class="bg-light rounded-1 me-3 p-6 d-flex align-items-center justify-content-center">
-                                    <img src="../../dist/images/svgs/icon-dd-application.svg" alt="" class="img-fluid"
+                                    <img src="/dist/images/svgs/icon-dd-application.svg" alt="" class="img-fluid"
                                          width="24" height="24">
                                 </div>
                                 <div class="d-inline-block">
@@ -256,14 +256,14 @@
 
 <!--  Import Js Files -->
 
-<script src="../../dist/libs/simplebar/dist/simplebar.min.js"></script>
-<script src="../../dist/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/dist/libs/simplebar/dist/simplebar.min.js"></script>
+<script src="/dist/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <!--  core files -->
-<script src="../../dist/js/app.min.js"></script>
-<script src="../../dist/js/app.init.js"></script>
-<script src="../../dist/js/app-style-switcher.js"></script>
-<script src="../../dist/js/sidebarmenu.js"></script>
-<script src="../../dist/js/custom.js"></script>
+<script src="/dist/js/app.min.js"></script>
+<script src="/dist/js/app.init.js"></script>
+<script src="/dist/js/app-style-switcher.js"></script>
+<script src="/dist/js/sidebarmenu.js"></script>
+<script src="/dist/js/custom.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
     $(document).ready(function() {

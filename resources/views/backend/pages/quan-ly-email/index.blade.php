@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-3">
                     <div class="text-center mb-n5">
-                        <img src="../../dist/images/breadcrumb/emailSv.png" alt="" class="img-fluid mb-n4">
+                        <img src="/dist/images/breadcrumb/emailSv.png" alt="" class="img-fluid mb-n4">
                     </div>
                 </div>
             </div>
@@ -320,7 +320,7 @@
                                                 <div
                                                     class="hstack align-items-start mb-7 pb-1 align-items-center justify-content-between">
                                                     <div class="d-flex align-items-center gap-2">
-                                                        <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="48" height="48"
+                                                        <img src="/dist/images/profile/user-8.jpg" alt="user8" width="48" height="48"
                                                              class="rounded-circle" />
                                                         <div>
                                                             <h6 class="fw-semibold mb-0">Alexandra Flintoff</h6>
@@ -348,7 +348,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 mb-2 mb-sm-0">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
+                                                                    <img src="/dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
                                                                 </div>
                                                                 <div>
                                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -360,7 +360,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt="" width="24"
+                                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt="" width="24"
                                                                          height="24">
                                                                 </div>
                                                                 <div>
@@ -377,7 +377,7 @@
                                                 <div
                                                     class="hstack align-items-start mb-7 pb-1 align-items-center justify-content-between">
                                                     <div class="d-flex align-items-center gap-2">
-                                                        <img src="../../dist/images/profile/user-1.jpg" alt="user8" width="48" height="48"
+                                                        <img src="/dist/images/profile/user-1.jpg" alt="user8" width="48" height="48"
                                                              class="rounded-circle" />
                                                         <div>
                                                             <h6 class="fw-semibold mb-0">Alexandra Flintoff</h6>
@@ -405,7 +405,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 mb-2 mb-sm-0">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
+                                                                    <img src="/dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
                                                                 </div>
                                                                 <div>
                                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -417,7 +417,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt="" width="24"
+                                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt="" width="24"
                                                                          height="24">
                                                                 </div>
                                                                 <div>
@@ -434,7 +434,7 @@
                                                 <div
                                                     class="hstack align-items-start mb-7 pb-1 align-items-center justify-content-between">
                                                     <div class="d-flex align-items-center gap-2">
-                                                        <img src="../../dist/images/profile/user-2.jpg" alt="user8" width="48" height="48"
+                                                        <img src="/dist/images/profile/user-2.jpg" alt="user8" width="48" height="48"
                                                              class="rounded-circle" />
                                                         <div>
                                                             <h6 class="fw-semibold mb-0">Alexandra Flintoff</h6>
@@ -462,7 +462,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 mb-2 mb-sm-0">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
+                                                                    <img src="/dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
                                                                 </div>
                                                                 <div>
                                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -474,7 +474,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt="" width="24"
+                                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt="" width="24"
                                                                          height="24">
                                                                 </div>
                                                                 <div>
@@ -491,7 +491,7 @@
                                                 <div
                                                     class="hstack align-items-start mb-7 pb-1 align-items-center justify-content-between">
                                                     <div class="d-flex align-items-center gap-2">
-                                                        <img src="../../dist/images/profile/user-3.jpg" alt="user8" width="48" height="48"
+                                                        <img src="/dist/images/profile/user-3.jpg" alt="user8" width="48" height="48"
                                                              class="rounded-circle" />
                                                         <div>
                                                             <h6 class="fw-semibold mb-0">Alexandra Flintoff</h6>
@@ -519,7 +519,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 mb-2 mb-sm-0">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
+                                                                    <img src="/dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
                                                                 </div>
                                                                 <div>
                                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -531,7 +531,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt="" width="24"
+                                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt="" width="24"
                                                                          height="24">
                                                                 </div>
                                                                 <div>
@@ -548,7 +548,7 @@
                                                 <div
                                                     class="hstack align-items-start mb-7 pb-1 align-items-center justify-content-between">
                                                     <div class="d-flex align-items-center gap-2">
-                                                        <img src="../../dist/images/profile/user-4.jpg" alt="user8" width="48" height="48"
+                                                        <img src="/dist/images/profile/user-4.jpg" alt="user8" width="48" height="48"
                                                              class="rounded-circle" />
                                                         <div>
                                                             <h6 class="fw-semibold mb-0">Alexandra Flintoff</h6>
@@ -576,7 +576,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 mb-2 mb-sm-0">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
+                                                                    <img src="/dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
                                                                 </div>
                                                                 <div>
                                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -588,7 +588,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt="" width="24"
+                                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt="" width="24"
                                                                          height="24">
                                                                 </div>
                                                                 <div>
@@ -605,7 +605,7 @@
                                                 <div
                                                     class="hstack align-items-start mb-7 pb-1 align-items-center justify-content-between">
                                                     <div class="d-flex align-items-center gap-2">
-                                                        <img src="../../dist/images/profile/user-5.jpg" alt="user8" width="48" height="48"
+                                                        <img src="/dist/images/profile/user-5.jpg" alt="user8" width="48" height="48"
                                                              class="rounded-circle" />
                                                         <div>
                                                             <h6 class="fw-semibold mb-0">Alexandra Flintoff</h6>
@@ -633,7 +633,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 mb-2 mb-sm-0">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
+                                                                    <img src="/dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
                                                                 </div>
                                                                 <div>
                                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -645,7 +645,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt="" width="24"
+                                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt="" width="24"
                                                                          height="24">
                                                                 </div>
                                                                 <div>
@@ -662,7 +662,7 @@
                                                 <div
                                                     class="hstack align-items-start mb-7 pb-1 align-items-center justify-content-between">
                                                     <div class="d-flex align-items-center gap-2">
-                                                        <img src="../../dist/images/profile/user-6.jpg" alt="user8" width="48" height="48"
+                                                        <img src="/dist/images/profile/user-6.jpg" alt="user8" width="48" height="48"
                                                              class="rounded-circle" />
                                                         <div>
                                                             <h6 class="fw-semibold mb-0">Alexandra Flintoff</h6>
@@ -690,7 +690,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 mb-2 mb-sm-0">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
+                                                                    <img src="/dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
                                                                 </div>
                                                                 <div>
                                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -702,7 +702,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt="" width="24"
+                                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt="" width="24"
                                                                          height="24">
                                                                 </div>
                                                                 <div>
@@ -719,7 +719,7 @@
                                                 <div
                                                     class="hstack align-items-start mb-7 pb-1 align-items-center justify-content-between">
                                                     <div class="d-flex align-items-center gap-2">
-                                                        <img src="../../dist/images/profile/user-7.jpg" alt="user8" width="48" height="48"
+                                                        <img src="/dist/images/profile/user-7.jpg" alt="user8" width="48" height="48"
                                                              class="rounded-circle" />
                                                         <div>
                                                             <h6 class="fw-semibold mb-0">Alexandra Flintoff</h6>
@@ -747,7 +747,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 mb-2 mb-sm-0">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
+                                                                    <img src="/dist/images/chat/icon-adobe.svg" alt="" width="24" height="24">
                                                                 </div>
                                                                 <div>
                                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -759,7 +759,7 @@
                                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover">
                                                             <div class="d-flex align-items-center gap-3">
                                                                 <div class="rounded-1 bg-light p-6">
-                                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt="" width="24"
+                                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt="" width="24"
                                                                          height="24">
                                                                 </div>
                                                                 <div>

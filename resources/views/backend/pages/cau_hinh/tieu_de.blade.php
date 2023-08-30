@@ -31,8 +31,8 @@
             </form>
         </div>
     </div>
-    <script src="../../dist/libs/ckeditor/ckeditor.js"></script>
-    <script src="../../dist/libs/ckeditor/samples/js/sample.js"></script>
+    <script src="/dist/libs/ckeditor/ckeditor.js"></script>
+    <script src="/dist/libs/ckeditor/samples/js/sample.js"></script>
     <script data-sample="1">
         CKEDITOR.replace("mo_ta_web", {
             height: 150,

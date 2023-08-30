@@ -52,7 +52,7 @@ $checkRole = \Illuminate\Support\Facades\Auth::user()->role_id
                                              width="40"
                                              height="40"/>
                                     @else
-                                        <img src="../../dist/images/profile/user-1.jpg" class="rounded-circle"
+                                        <img src="/dist/images/profile/user-1.jpg" class="rounded-circle"
                                              width="40"
                                              height="40"/>
                                     @endif
