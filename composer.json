@@ -16,14 +16,18 @@
         "laravel/framework": "^8.12",
         "laravel/passport": "^10.0",
         "laravel/tinker": "^2.5",
-        "laravel/ui": "^3.1"
+        "laravel/ui": "^3.1",
+        "unisharp/laravel-filemanager": "^2.6"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
-        "phpunit/phpunit": "^9.3.3"
+        "phpunit/phpunit": "^9.3.3",
+        "laravel/pint": "^1.0",
+        "laravel/sail": "^1.18",
+        "spatie/laravel-ignition": "^2.0"
     },
     "config": {
         "optimize-autoloader": true,

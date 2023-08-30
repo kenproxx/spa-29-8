@@ -6,7 +6,7 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Str;
+use Illuminate\Support\Facades\Hash;
 
 class UsersTableSeeder extends Seeder
 {
@@ -20,10 +20,11 @@ class UsersTableSeeder extends Seeder
         DB::table('users')->where('email', 'admin@gmail.com')->delete();
 
         DB::table('users')->insert([
-            'name' => 'John Doe',
+            'name' => 'Admin',
             'email' => 'admin@gmail.com',
-            'password' => bcrypt('123456'),
-            'type' => 'admin',
+            'password' => Hash::make(123456),
+            'status' => '1',
+            'role_id' => '1',
         ]);
     }
 }

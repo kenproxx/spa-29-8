@@ -13,13 +13,7 @@
                     ['type', 'TIEU_DE'],
                     ['name', 'tieu_de']
                 ])->first();
-                $logo = \App\Models\Config::where([
-                    ['type', 'logo'],
-                    ['name', 'logo']
-                ])->first();
             @endphp
-            <img src="{{asset('storage/' . $logo->value)}}" class="dark-logo" width="180" alt=""/>
-            <img src="{{asset('storage/' . $logo->value)}}" class="light-logo" width="180" alt=""/>
         </div>
         <button class="navbar-toggler p-0 border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
