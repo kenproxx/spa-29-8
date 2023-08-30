@@ -10,7 +10,7 @@
             <div class=" col-md-6 col-xl-4">
                 <div class="card">
                     <div class="card-body p-4 d-flex align-items-center gap-3">
-                        <img src="../../dist/images/blog/blog-img6.jpg" alt="" class="rounded-circle" width="40"
+                        <img src="/dist/images/blog/blog-img6.jpg" alt="" class="rounded-circle" width="40"
                              height="40">
                         <div>
                             <h5 class="fw-semibold mb-0">{{ $service->service_name }}</h5>

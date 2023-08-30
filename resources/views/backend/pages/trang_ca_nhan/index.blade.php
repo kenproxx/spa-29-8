@@ -4,7 +4,7 @@
 @section('content')
     <div class="card overflow-hidden">
         <div class="card-body p-0">
-            <img src="../../dist/images/backgrounds/profilebg.jpg" alt="" class="img-fluid">
+            <img src="/dist/images/backgrounds/profilebg.jpg" alt="" class="img-fluid">
             <div class="row align-items-center">
                 <div class="col-lg-4 order-lg-1 order-2">
                 </div>
@@ -13,7 +13,7 @@
                         <div class="d-flex align-items-center justify-content-center mb-2">
                             <div class="linear-gradient d-flex align-items-center justify-content-center rounded-circle" style="width: 110px; height: 110px;";>
                                 <div class="border border-4 border-white d-flex align-items-center justify-content-center rounded-circle overflow-hidden" style="width: 100px; height: 100px;";>
-                                    <img src="../../dist/images/profile/user-1.jpg" alt="" class="w-100 h-100">
+                                    <img src="/dist/images/profile/user-1.jpg" alt="" class="w-100 h-100">
                                 </div>
                             </div>
                         </div>

@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-3">
                     <div class="text-center mb-n5">
-                        <img src="../../dist/images/breadcrumb/ChatBc.png" alt="" class="img-fluid mb-n4">
+                        <img src="/dist/images/breadcrumb/ChatBc.png" alt="" class="img-fluid mb-n4">
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@
                     <div class="d-sm-flex align-items-center justify-content-between mb-3">
                         <div class="d-flex align-items-center">
                             <div class="position-relative">
-                                <img src="../../dist/images/profile/user-1.jpg" alt="user1" width="54" height="54" class="rounded-circle">
+                                <img src="/dist/images/profile/user-1.jpg" alt="user1" width="54" height="54" class="rounded-circle">
                                 <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                           <span class="visually-hidden">New alerts</span>
                         </span>
@@ -83,7 +83,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user bg-light" id="chat_user_1" data-user-id="1">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -100,7 +100,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_2" data-user-id="2">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-2.jpg" alt="user-2" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-2.jpg" alt="user-2" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-danger">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -117,7 +117,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_3" data-user-id="3">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-8.jpg" alt="user-8" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-8.jpg" alt="user-8" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-warning">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -134,7 +134,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_4" data-user-id="4">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-4.jpg" alt="user-4" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-4.jpg" alt="user-4" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -151,7 +151,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_5" data-user-id="5">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -168,7 +168,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_2" data-user-id="2">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-2.jpg" alt="user-2" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-2.jpg" alt="user-2" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-danger">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -185,7 +185,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_3" data-user-id="3">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-8.jpg" alt="user-8" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-8.jpg" alt="user-8" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-warning">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -217,7 +217,7 @@
                         <div class="p-9 border-bottom chat-meta-user d-flex align-items-center justify-content-between">
                             <div class="hstack gap-3 current-chat-user-name">
                                 <div class="position-relative">
-                                    <img src="../../dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
+                                    <img src="/dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
                                     <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                             <span class="visually-hidden">New alerts</span>
                           </span>
@@ -245,7 +245,7 @@
                                 <div class="chat-box p-9" style="height: calc(100vh - 442px)" data-simplebar>
                                     <div class="chat-list chat active-chat" data-user-id="1">
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> If I don’t like something, I’ll stay away from it. </div>
@@ -258,7 +258,7 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> I want more detailed information. </div>
@@ -272,11 +272,11 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="rounded-2 overflow-hidden">
-                                                    <img src="../../dist/images/products/product-1.jpg" alt="" class="w-100">
+                                                    <img src="/dist/images/products/product-1.jpg" alt="" class="w-100">
                                                 </div>
                                             </div>
                                         </div>
@@ -284,7 +284,7 @@
                                     <!-- 2 -->
                                     <div class="chat-list chat" data-user-id="2">
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> If I don’t like something, I’ll stay away from it. </div>
@@ -297,7 +297,7 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> I want more detailed information. </div>
@@ -311,11 +311,11 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="rounded-2 overflow-hidden">
-                                                    <img src="../../dist/images/products/product-1.jpg" alt="" class="w-100">
+                                                    <img src="/dist/images/products/product-1.jpg" alt="" class="w-100">
                                                 </div>
                                             </div>
                                         </div>
@@ -323,7 +323,7 @@
                                     <!-- 3 -->
                                     <div class="chat-list chat" data-user-id="3">
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> If I don’t like something, I’ll stay away from it. </div>
@@ -336,7 +336,7 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> I want more detailed information. </div>
@@ -350,11 +350,11 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="rounded-2 overflow-hidden">
-                                                    <img src="../../dist/images/products/product-1.jpg" alt="" class="w-100">
+                                                    <img src="/dist/images/products/product-1.jpg" alt="" class="w-100">
                                                 </div>
                                             </div>
                                         </div>
@@ -362,7 +362,7 @@
                                     <!-- 4 -->
                                     <div class="chat-list chat" data-user-id="4">
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> If I don’t like something, I’ll stay away from it. </div>
@@ -375,7 +375,7 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> I want more detailed information. </div>
@@ -389,11 +389,11 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="rounded-2 overflow-hidden">
-                                                    <img src="../../dist/images/products/product-1.jpg" alt="" class="w-100">
+                                                    <img src="/dist/images/products/product-1.jpg" alt="" class="w-100">
                                                 </div>
                                             </div>
                                         </div>
@@ -401,7 +401,7 @@
                                     <!-- 5 -->
                                     <div class="chat-list chat" data-user-id="5">
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> If I don’t like something, I’ll stay away from it. </div>
@@ -414,7 +414,7 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="p-2 bg-light rounded-1 d-inline-block text-dark fs-3"> I want more detailed information. </div>
@@ -428,11 +428,11 @@
                                             </div>
                                         </div>
                                         <div class="hstack gap-3 align-items-start mb-7 justify-content-start">
-                                            <img src="../../dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
+                                            <img src="/dist/images/profile/user-8.jpg" alt="user8" width="40" height="40" class="rounded-circle" />
                                             <div>
                                                 <h6 class="fs-2 text-muted">Andrew, 2 hours ago</h6>
                                                 <div class="rounded-2 overflow-hidden">
-                                                    <img src="../../dist/images/products/product-1.jpg" alt="" class="w-100">
+                                                    <img src="/dist/images/products/product-1.jpg" alt="" class="w-100">
                                                 </div>
                                             </div>
                                         </div>
@@ -463,22 +463,22 @@
                                     <div class="media-chat mb-7">
                                         <div class="row">
                                             <div class="col-4 px-1">
-                                                <div class="rounded-1 overflow-hidden mb-2"><img src="../../dist/images/products/product-1.jpg" alt="" class="w-100"></div>
+                                                <div class="rounded-1 overflow-hidden mb-2"><img src="/dist/images/products/product-1.jpg" alt="" class="w-100"></div>
                                             </div>
                                             <div class="col-4 px-1">
-                                                <div class="rounded-1 overflow-hidden mb-2"><img src="../../dist/images/products/product-2.jpg" alt="" class="w-100"></div>
+                                                <div class="rounded-1 overflow-hidden mb-2"><img src="/dist/images/products/product-2.jpg" alt="" class="w-100"></div>
                                             </div>
                                             <div class="col-4 px-1">
-                                                <div class="rounded-1 overflow-hidden mb-2"><img src="../../dist/images/products/product-3.jpg" alt="" class="w-100"></div>
+                                                <div class="rounded-1 overflow-hidden mb-2"><img src="/dist/images/products/product-3.jpg" alt="" class="w-100"></div>
                                             </div>
                                             <div class="col-4 px-1">
-                                                <div class="rounded-1 overflow-hidden mb-2"><img src="../../dist/images/products/product-4.jpg" alt="" class="w-100"></div>
+                                                <div class="rounded-1 overflow-hidden mb-2"><img src="/dist/images/products/product-4.jpg" alt="" class="w-100"></div>
                                             </div>
                                             <div class="col-4 px-1">
-                                                <div class="rounded-1 overflow-hidden mb-2"><img src="../../dist/images/products/product-1.jpg" alt="" class="w-100"></div>
+                                                <div class="rounded-1 overflow-hidden mb-2"><img src="/dist/images/products/product-1.jpg" alt="" class="w-100"></div>
                                             </div>
                                             <div class="col-4 px-1">
-                                                <div class="rounded-1 overflow-hidden mb-2"><img src="../../dist/images/products/product-2.jpg" alt="" class="w-100"></div>
+                                                <div class="rounded-1 overflow-hidden mb-2"><img src="/dist/images/products/product-2.jpg" alt="" class="w-100"></div>
                                             </div>
                                         </div>
                                     </div>
@@ -487,7 +487,7 @@
                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover justify-content-between mb-9">
                                             <div class="d-flex align-items-center gap-3">
                                                 <div class="rounded-1 bg-light p-6">
-                                                    <img src="../../dist/images/chat/icon-adobe.svg" alt=""  width="24" height="24">
+                                                    <img src="/dist/images/chat/icon-adobe.svg" alt=""  width="24" height="24">
                                                 </div>
                                                 <div>
                                                     <h6 class="fw-semibold">service-task.pdf</h6>
@@ -501,7 +501,7 @@
                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover justify-content-between mb-9">
                                             <div class="d-flex align-items-center gap-3">
                                                 <div class="rounded-1 bg-light p-6">
-                                                    <img src="../../dist/images/chat/icon-figma.svg" alt=""  width="24" height="24">
+                                                    <img src="/dist/images/chat/icon-figma.svg" alt=""  width="24" height="24">
                                                 </div>
                                                 <div>
                                                     <h6 class="fw-semibold">homepage-design.fig</h6>
@@ -515,7 +515,7 @@
                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover justify-content-between mb-9">
                                             <div class="d-flex align-items-center gap-3">
                                                 <div class="rounded-1 bg-light p-6">
-                                                    <img src="../../dist/images/chat/icon-chrome.svg" alt=""  width="24" height="24">
+                                                    <img src="/dist/images/chat/icon-chrome.svg" alt=""  width="24" height="24">
                                                 </div>
                                                 <div>
                                                     <h6 class="fw-semibold">about-us.html</h6>
@@ -529,7 +529,7 @@
                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover justify-content-between mb-9">
                                             <div class="d-flex align-items-center gap-3">
                                                 <div class="rounded-1 bg-light p-6">
-                                                    <img src="../../dist/images/chat/icon-zip-folder.svg" alt=""  width="24" height="24">
+                                                    <img src="/dist/images/chat/icon-zip-folder.svg" alt=""  width="24" height="24">
                                                 </div>
                                                 <div>
                                                     <h6 class="fw-semibold">work-project.zip</h6>
@@ -543,7 +543,7 @@
                                         <a href="javascript:void(0)" class="hstack gap-3 file-chat-hover justify-content-between">
                                             <div class="d-flex align-items-center gap-3">
                                                 <div class="rounded-1 bg-light p-6">
-                                                    <img src="../../dist/images/chat/icon-javascript.svg" alt=""  width="24" height="24">
+                                                    <img src="/dist/images/chat/icon-javascript.svg" alt=""  width="24" height="24">
                                                 </div>
                                                 <div>
                                                     <h6 class="fw-semibold">custom.js</h6>
@@ -570,7 +570,7 @@
                     <div class="d-sm-flex align-items-center justify-content-between mb-3">
                         <div class="d-flex align-items-center">
                             <div class="position-relative">
-                                <img src="../../dist/images/profile/user-1.jpg" alt="user1" width="54" height="54" class="rounded-circle">
+                                <img src="/dist/images/profile/user-1.jpg" alt="user1" width="54" height="54" class="rounded-circle">
                                 <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                           <span class="visually-hidden">New alerts</span>
                         </span>
@@ -614,7 +614,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user bg-light" id="chat_user_1" data-user-id="1">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -631,7 +631,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_2" data-user-id="2">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-2.jpg" alt="user-2" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-2.jpg" alt="user-2" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-danger">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -648,7 +648,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_3" data-user-id="3">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-8.jpg" alt="user-8" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-8.jpg" alt="user-8" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-warning">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -665,7 +665,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_4" data-user-id="4">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-4.jpg" alt="user-4" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-4.jpg" alt="user-4" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -682,7 +682,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_5" data-user-id="5">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-1.jpg" alt="user1" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-success">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -699,7 +699,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_2" data-user-id="2">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-2.jpg" alt="user-2" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-2.jpg" alt="user-2" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-danger">
                               <span class="visually-hidden">New alerts</span>
                             </span>
@@ -716,7 +716,7 @@
                             <a href="javascript:void(0)" class="px-4 py-3 bg-hover-light-black d-flex align-items-start justify-content-between chat-user" id="chat_user_3" data-user-id="3">
                                 <div class="d-flex align-items-center">
                           <span class="position-relative">
-                            <img src="../../dist/images/profile/user-8.jpg" alt="user-8" width="48" height="48" class="rounded-circle" />
+                            <img src="/dist/images/profile/user-8.jpg" alt="user-8" width="48" height="48" class="rounded-circle" />
                             <span class="position-absolute bottom-0 end-0 p-1 badge rounded-pill bg-warning">
                               <span class="visually-hidden">New alerts</span>
                             </span>

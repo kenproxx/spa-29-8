@@ -39,7 +39,7 @@
                                 </td>
                                 <td>
                                     <div class="d-flex align-items-center">
-                                        <img src="../../dist/images/products/s1.jpg" class="rounded-circle" alt="..."
+                                        <img src="/dist/images/products/s1.jpg" class="rounded-circle" alt="..."
                                              width="56" height="56">
                                         <div class="ms-3">
                                             <h6 class="fw-semibold mb-0 fs-4">{{ $item->name }}</h6>

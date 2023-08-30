@@ -177,7 +177,7 @@
         </div>
     </div>
 
-    <script src="../../dist/js/apps/notes.js"></script>
+    <script src="/dist/js/apps/notes.js"></script>
 
 @endsection
 

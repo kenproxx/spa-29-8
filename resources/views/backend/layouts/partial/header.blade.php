@@ -44,7 +44,7 @@
                             <div class="message-body" data-simplebar>
                                 <a href="javascript:void(0)" class="py-6 px-7 d-flex align-items-center dropdown-item">
                           <span class="me-3">
-                            <img src="../../dist/images/profile/user-1.jpg" alt="user" class="rounded-circle" width="48"
+                            <img src="/dist/images/profile/user-1.jpg" alt="user" class="rounded-circle" width="48"
                                  height="48"/>
                           </span>
                                     <div class="w-75 d-inline-block v-middle">
@@ -54,7 +54,7 @@
                                 </a>
                                 <a href="javascript:void(0)" class="py-6 px-7 d-flex align-items-center dropdown-item">
                           <span class="me-3">
-                            <img src="../../dist/images/profile/user-2.jpg" alt="user" class="rounded-circle" width="48"
+                            <img src="/dist/images/profile/user-2.jpg" alt="user" class="rounded-circle" width="48"
                                  height="48"/>
                           </span>
                                     <div class="w-75 d-inline-block v-middle">
@@ -64,7 +64,7 @@
                                 </a>
                                 <a href="javascript:void(0)" class="py-6 px-7 d-flex align-items-center dropdown-item">
                           <span class="me-3">
-                            <img src="../../dist/images/profile/user-3.jpg" alt="user" class="rounded-circle" width="48"
+                            <img src="/dist/images/profile/user-3.jpg" alt="user" class="rounded-circle" width="48"
                                  height="48"/>
                           </span>
                                     <div class="w-75 d-inline-block v-middle">
@@ -74,7 +74,7 @@
                                 </a>
                                 <a href="javascript:void(0)" class="py-6 px-7 d-flex align-items-center dropdown-item">
                           <span class="me-3">
-                            <img src="../../dist/images/profile/user-4.jpg" alt="user" class="rounded-circle" width="48"
+                            <img src="/dist/images/profile/user-4.jpg" alt="user" class="rounded-circle" width="48"
                                  height="48"/>
                           </span>
                                     <div class="w-75 d-inline-block v-middle">
@@ -84,7 +84,7 @@
                                 </a>
                                 <a href="javascript:void(0)" class="py-6 px-7 d-flex align-items-center dropdown-item">
                           <span class="me-3">
-                            <img src="../../dist/images/profile/user-5.jpg" alt="user" class="rounded-circle" width="48"
+                            <img src="/dist/images/profile/user-5.jpg" alt="user" class="rounded-circle" width="48"
                                  height="48"/>
                           </span>
                                     <div class="w-75 d-inline-block v-middle">
@@ -94,7 +94,7 @@
                                 </a>
                                 <a href="javascript:void(0)" class="py-6 px-7 d-flex align-items-center dropdown-item">
                           <span class="me-3">
-                            <img src="../../dist/images/profile/user-1.jpg" alt="user" class="rounded-circle" width="48"
+                            <img src="/dist/images/profile/user-1.jpg" alt="user" class="rounded-circle" width="48"
                                  height="48"/>
                           </span>
                                     <div class="w-75 d-inline-block v-middle">
@@ -113,7 +113,7 @@
                            aria-expanded="false">
                             <div class="d-flex align-items-center">
                                 <div class="user-profile-img">
-                                    <img src="../../dist/images/profile/user-1.jpg" class="rounded-circle" width="35"
+                                    <img src="/dist/images/profile/user-1.jpg" class="rounded-circle" width="35"
                                          height="35" alt=""/>
                                 </div>
                             </div>
@@ -125,7 +125,7 @@
                                     <h5 class="mb-0 fs-5 fw-semibold">Trang cá nhân</h5>
                                 </div>
                                 <div class="d-flex align-items-center py-9 mx-7 border-bottom">
-                                    <img src="../../dist/images/profile/user-1.jpg" class="rounded-circle" width="80"
+                                    <img src="/dist/images/profile/user-1.jpg" class="rounded-circle" width="80"
                                          height="80" alt=""/>
                                     <div class="ms-3">
                                         <h5 class="mb-1 fs-3">{{ Auth::user()->name != '' ? Auth::user()->name : \App\Models\Role::where('id', Auth::user()->role_id)->first(['name'])->name }}</h5>
@@ -139,7 +139,7 @@
                                     <a href="{{ route('backend.trang-ca-nhan.show') }}"
                                        class="py-8 px-7 mt-8 d-flex align-items-center">
                             <span class="d-flex align-items-center justify-content-center bg-light rounded-1 p-6">
-                              <img src="../../dist/images/svgs/icon-account.svg" alt="" width="24" height="24">
+                              <img src="/dist/images/svgs/icon-account.svg" alt="" width="24" height="24">
                             </span>
                                         <div class="w-75 d-inline-block v-middle ps-3">
                                             <span class="d-block text-dark">Cài đặt tài khoản</span>
